@@ -1,0 +1,4 @@
+{
+  "db": "mongodb+srv://omar:0000@cluster0.xrelzap.mongodb.net/expressfood?retryWrites=true&w=majority",
+  "secret": "helloo"
+}
